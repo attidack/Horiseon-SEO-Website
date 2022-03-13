@@ -13,7 +13,7 @@ Website created by U of U bootcamp (week 1 Challenge):
 ## Table of Contents
 
 - [Live-site](#live-site)
-- [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
