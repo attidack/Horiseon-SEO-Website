@@ -7,6 +7,7 @@ Website created by U of U bootcamp (week 1 Challenge):
 - Commented CSS
 - Refactored css
 - Fixed Linking
+- Created readme file
 
 
 ## Table of Contents
