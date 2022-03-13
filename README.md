@@ -4,7 +4,6 @@
 
 Website created by U of U bootcamp (week 1 Challenge):
 
-- This was the week 1 Challenge
 - Commented CSS
 - Refactored css
 - Fixed Linking
