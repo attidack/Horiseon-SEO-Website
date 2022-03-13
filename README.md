@@ -22,7 +22,7 @@ Website created by U of U bootcamp (week 1 Challenge):
 
 ## Screenshot
 
-![alt text](assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
 
 
 ## Credits
