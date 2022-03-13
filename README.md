@@ -19,7 +19,7 @@ Website created by U of U bootcamp (week 1 Challenge):
 
 ## Live-site
 
-[You can find the site at live here on github](https://attidack.github.io/urban-octo-telegram/)
+[You can find the site at live here on github](https://attidack.github.io/Horiseon-SEO-Website/)
 
 ## Screenshot
 
